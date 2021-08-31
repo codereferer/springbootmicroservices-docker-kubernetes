@@ -1,0 +1,7 @@
+#Links
+
+mvn clean package dockerfile:push
+
+# App
+
+download kube forwarder
